@@ -109,7 +109,7 @@ I'm a backend developer with a passion for building intelligent, secure, and sca
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MUAZMHAFIDZ&show_icons=true&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MUAZMHAFIDZ&hide_rank=true&show_icons=true&theme=radical" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZMHAFIDZ&layout=compact&theme=radical" />
 </div>
 
